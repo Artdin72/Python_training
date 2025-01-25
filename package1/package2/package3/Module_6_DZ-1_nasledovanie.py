@@ -29,7 +29,7 @@ class Flower(Plant):
 class Fruit(Plant):
     edible = True
 
-a1 = Predator('Волк с Уолл-Стрит')
+a1 = Predator('Крокозябр')
 a2 = Mammal('Бурёнка')
 p1 = Flower('Цветик семицветик')
 p2 = Fruit('Заводной апельсин')
